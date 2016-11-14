@@ -1,3 +1,6 @@
+# Unreal Starter Content
+Content/StarterContent
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -38,6 +41,7 @@
 *.opensdf
 *.sdf
 *.VC.opendb
+*.VC.db
 
 # Precompiled Assets
 SourceArt/**/*.png
